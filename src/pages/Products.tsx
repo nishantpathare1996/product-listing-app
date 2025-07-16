@@ -99,7 +99,7 @@ function Products() {
               className="w-full md:max-w-[350px] border rounded-lg pl-2 py-1  md:w-1/3"
             />
 
-            <div className="flex  justify-center md:justify-end mx-auto md:mx-0   md:w-1/3">
+            <div className="flex justify-center md:justify-end mx-auto md:mx-0 md:w-1/3">
               <button
                 onClick={() => {
                   if (sortingOrder === "ascending") {
@@ -126,7 +126,7 @@ function Products() {
         {loading ? (
           <Spinner />
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 pb-10">
             {products &&
               products.map((product) => (
                 <div key={product.id}>

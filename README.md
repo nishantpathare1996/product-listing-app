@@ -7,6 +7,10 @@ This is a responsive product listing application built with **React**, **TypeScr
 - Search products by name or description
 - Load fallback data from a local JSON file if the API fails
 
+### Deployment Website:
+
+https://nishantpathare1996.github.io/product-listing-app
+
 ---
 
 ## 🚀 Features
@@ -44,7 +48,9 @@ npm install
 
 npm run dev
 
-### 4. Run the development server
+### 4. Deploy to github pages
+
+npm run deploy
 
 ---
 
