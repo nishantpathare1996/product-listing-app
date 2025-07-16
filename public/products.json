@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 89.99,
+    "description": "Bluetooth over-ear headphones with noise cancellation.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/1va.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "description": "Fitness tracker with heart rate monitor and GPS.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/2kl.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Keyboard",
+    "price": 59.99,
+    "description": "Mechanical RGB keyboard with programmable keys.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/7hc.jpg"
+  },
+  {
+    "id": 4,
+    "name": "4K Monitor",
+    "price": 329.99,
+    "description": "27-inch UHD display with ultra-thin bezels.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/9m4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Portable SSD",
+    "price": 129.99,
+    "description": "1TB external solid-state drive with USB-C support.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/b8p.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Smartphone Gimbal",
+    "price": 99.99,
+    "description": "3-axis handheld stabilizer for smooth video capture.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/dc3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Noise-Cancelling Earbuds",
+    "price": 149.99,
+    "description": "Wireless earbuds with active noise cancellation.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/MTg5NzI2NA.jpg"
+  },
+  {
+    "id": 8,
+    "name": "USB-C Hub",
+    "price": 49.99,
+    "description": "Multi-port adapter with HDMI, USB 3.0, and SD reader.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/88c.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Laptop Stand",
+    "price": 39.99,
+    "description": "Aluminum adjustable stand for laptops and tablets.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/Yt4_Z0aDC.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Webcam",
+    "price": 79.99,
+    "description": "Full HD webcam with built-in microphone and low-light correction.",
+    "imageUrl": "https://cdn2.thecatapi.com/images/bhg.jpg"
+  }
+]
